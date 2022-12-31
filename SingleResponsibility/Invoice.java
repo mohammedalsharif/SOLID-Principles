@@ -2,7 +2,7 @@ package SingleResponsibility;
 
 public class Invoice {
 
-    private Book book;
+    private Book book;  
     private int quantity;
     private double discount;
     private double taxRate;
